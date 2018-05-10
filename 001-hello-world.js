@@ -13,3 +13,5 @@ for (i = 0; i < elements.length; i++) {
 }
 
 document.getElementById("result").innerHTML = greaterThan18(elements);
+
+//
